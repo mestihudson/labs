@@ -1,6 +1,6 @@
 # Docker: Tutoriais e Laboratórios
 
-Esse repositório contém [Docker](https://docker.com) laboratórios (provas de conceito e outras experimentações) e tutoriais escritos pela equipe do Docker, e por membros da comunidade. Nós damos as boas-vindas aos contribuidores e desejamos que o repositório cresça.
+Esse repositório contém laboratórios de [Docker](https://docker.com) (provas de conceito e outras experimentações) e tutoriais escritos pela equipe do Docker, e por membros da comunidade. Nós damos as boas-vindas aos contribuidores e desejamos que o repositório cresça.
 
 #### Docker tutoriais:
 * [Docker para iniciantes](beginner/readme.md)
