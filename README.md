@@ -2,7 +2,7 @@
 
 Esse repositório contém laboratórios de [Docker](https://docker.com) (provas de conceito e outras experimentações) e tutoriais escritos pela equipe do Docker, e por membros da comunidade. Nós damos as boas-vindas aos contribuidores e desejamos que o repositório cresça.
 
-#### Docker tutoriais:
+#### Tutoriais da equipe do Docker:
 * [Docker para iniciantes](beginner/readme.md)
 * [Docker: Modo Swarm](swarm-mode/README.md)
 * [Configurando ferramentas de desenvolvimento e linguaguens de programação](developer-tools/README.md)
