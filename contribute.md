@@ -1,15 +1,15 @@
-## Contributing to Tutorials ##
+## Contribuindo para os Tutoriais ##
 
-Thank you so much for your interest in contributing to [Docker](https://docker.com) tutorials. Docker has open source in its DNA, and has always worked closely with the community.
+Muito obrigado pelo seu interesse em contribuir para os tutoriais do [Docker](https://docker.com). Docker tem em seu DNA o código aberto, e tem trabalhado muito próximo a comunidade.
 
-Just a few quick things to be aware of before you get started.
+Só algumas coisinhas para se ter ciência antes de iniciar.
 
-We welcome issues and pull requests for either adding a new tutorial, or fixing a problem with an existing tutorial. This is a repository for tutorials that use Docker based projects as much as possible. So if there’s a Docker tool for what you’re describing, please use that.
+Nós acolhemos com prazer os relatos (issues) e as solicitações de incorporação (pull requests) seja para adicionar um novo tutorial, seja para corrigir um problema encontrado um um já existente. Esse é um repositório para tutoriais que usam a base de projetos do Docker tanto quanto possível. Então se existe uma ferramenta Docker para o que você está descrevendo, por gentileza use-a.
 
-Anything you contribute will be under an Apache license. Docker will choose which tutorials to accept and reject, and will be able to take any tutorials here and put them in Docker documentation. Likewise, anything posted here may be forked by anyone on GitHub.
+Qualquer que seja sua contribuição ela estará sobe a licença Apache. A Docker ("A Empresa" ou "A Equipe", doravante referenciada como "A Docker") irá escolher quais tutoriais aceitar e quais rejeitar, e tomará qualquer tutoriais aqui submetidos e para colocá-los na documenção do Docker ("O Produto", doravante referenciado como "O Docker"). Além disso, tudo aqui postado pode ser bifurcado (forked) por qualquer um no GitHub.
 
-We will be following the lightweight version of the Docker contribution policies and procedures as explained in
-- [Docker documentation](https://docs.docker.com)
-- The [Docker engine repo](https://github.com/docker/docker/blob/master/CONTRIBUTING.md).
+Nós iremos seguir uma versão mais leve das políticas e procedimentos de contribuição da Docker como explicado em
+- [Docker: documentação](https://docs.docker.com)
+- [Docker: repositório do motor](https://github.com/docker/docker/blob/master/CONTRIBUTING.md).
 
-This largely boils down to [signing your PRs](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#sign-your-work), following the Docker [trademark guidelines](https://www.docker.com/trademark-guidelines), and following the community guidelines.
+Isso em grante parte se resume a [assinar seus PRs (Pull Requests)](https://github.com/docker/docker/blob/master/CONTRIBUTING.md#sign-your-work), seguir as [diretrizes de marca registrada (trademark guidelines)](https://www.docker.com/trademark-guidelines) da Docker, e seguir as diretrizes da comunidade.
