@@ -1,12 +1,12 @@
-# 12 Factor Application
+# 12 Factor Application (Doze Fatores de uma Aplicação)
 
-Today, a lot of applications are services deployed in the cloud, on infrastructure of cloud providers such as Amazon AWS, Google Compute Engine, DigitalOcean, Rackspace, OVH, ...
+Hoje, muitas aplicações são serviços implantados na nuvem, na infra-estrutura provida por empresas tais como Amazon AWS, Google Compute Engine, DigitalOcean, Rackspace, OVH, ...
 
-Heroku is PaaS (Platform as a Service) that relies on Amazon AWS and which makes the deployment of applications as easy as `git push heroku master` (ran from the root of your application).
+Heroku é uma PaaS (Platform as a Service - Plataforma com um Serviço) que confia na nuvem da Amazon AWS e que faz a implantação de aplicações tão fácil quanto um  `git push heroku master` (executado a partir da raiz de sua aplicação).
 
-With the huge number of applications deployed on Heroku, engineers of the company acquired a great knowledge of what should be done to get cloud native application.
+Com um grande número de aplicações implantadas no Heroku, engenheiros da companhia adiquiriram grande conhecimento do que deve ser feito para tornar uma aplicação nativa  disponível na nuvem.
 
-12 factor methodology is the result of their observations. As the name states, it presents 12 principles that will help application to be cloud ready, horizontally scalable, and portable.
+A metodologia 12 fatores (12 factor) é resultado das observações deles. Como nomes de estados, ele apresenta 12 princípios que irão ajudar a aplicação a estar ápita para a nuvem, horizontalmente escalável, e portável.
 
 # Organisation of this lab
 
